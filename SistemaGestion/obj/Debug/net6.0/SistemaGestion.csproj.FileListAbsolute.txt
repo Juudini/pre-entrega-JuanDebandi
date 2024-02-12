@@ -1,0 +1,5 @@
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestion\obj\Debug\net6.0\SistemaGestion.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestion\obj\Debug\net6.0\SistemaGestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestion\obj\Debug\net6.0\SistemaGestion.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestion\obj\Debug\net6.0\SistemaGestion.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestion\obj\Debug\net6.0\SistemaGestion.csproj.CoreCompileInputs.cache

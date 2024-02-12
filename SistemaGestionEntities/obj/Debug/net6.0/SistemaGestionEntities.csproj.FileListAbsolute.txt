@@ -1,0 +1,12 @@
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll

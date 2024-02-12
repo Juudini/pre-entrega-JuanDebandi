@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.deps.json
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.dll
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.dll
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionData\obj\Debug\net6.0\refint\SistemaGestionData.dll
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\lucas\OneDrive\Documentos\Coderhouse\C-Sharp\Practica\PreEntrega1\SistemaGestionData\obj\Debug\net6.0\ref\SistemaGestionData.dll
